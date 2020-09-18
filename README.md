@@ -17,5 +17,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤓 Overall geek 😊<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🍔 Burger and 🥩 BBQ lover (doing and eating)<br>
 
-#### 💬 Where to find me
+#### 💬 Where to find more stuff
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💼 [My personal profile/portfolio/skills page](https://appdevcanada.github.io) 
