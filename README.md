@@ -1,8 +1,9 @@
-### Hi there 👋
+
+### Hi there 👋 ...I'm Luis!
+
+Highly-skilled software development professional bringing more than 10 years in software design, development and integration. Advanced knowledge of Mobile, Application and Web programming languages. Education and experience focused on both sides - business & tech, and also project management, leadership, development and design.
 
 <!--
-**appdevcanada/appdevcanada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
