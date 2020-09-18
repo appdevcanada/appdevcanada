@@ -1,18 +1,21 @@
+![stacks](./Background.png)
 
 ### Hi there 👋 ...I'm Luis!
 
-Highly-skilled software development professional bringing more than 10 years in software design, development and integration. Advanced knowledge of Mobile, Application and Web programming languages. Education and experience focused on both sides - business & tech, and also project management, leadership, development and design.
+#### 🤔 A bit about me
+🤹 Highly-skilled software development professional bringing more than 10 years in software design, development and integration.<br>
+💻 Advanced knowledge of 📱 Mobile, 🌐 Application and 🕸️ Web programming languages.<br>
+📚 Education and experience focused on both sides - business & tech, and also project management, leadership and design.
 
-<!--
-Here are some ideas to get you started:
+#### ⚡ Happening now
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏋️‍ I’m currently working on a personal project and a U.S. company web app.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📖 I’m currently studying ☁️ Cloud development concepts to get certified.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👁️ I’m looking for a full-time permanent job...<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 😜 Fun facts<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎮 Video game player & enthusiast<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤓 Overall geek 😊<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🍔 Burger and 🥩 BBQ lover (doing and eating)<br>
 
+#### 💬 Where to find me
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💼 [My personal profile/portfolio/skills page](https://appdevcanada.github.io) 
