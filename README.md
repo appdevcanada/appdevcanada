@@ -10,6 +10,7 @@
 #### ⚡ Happening now
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏋️‍ I’m currently working on a personal project and a U.S. company web app.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📖 I’m currently studying ☁️ Cloud development concepts to get certified.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;😔 Unfortunately, my best projects were developed for private companies with signed NDAs.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👁️ I’m looking for a full-time permanent job...<br>
 
 #### 😜 Fun facts<br>
