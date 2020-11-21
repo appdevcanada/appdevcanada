@@ -8,8 +8,8 @@
 📚 Education and experience focused on both sides - business & tech, and also project management, leadership and design.
 
 #### ⚡ Happening now
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏋️‍ I’m currently working on a personal project and a 🇺🇸U.S. company web app.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📖 I’m currently studying ☁️ Cloud development concepts to get certified.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏋️‍ I’m currently working on a personal project and actively looking for a job.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📖 I’m currently studying AWS ☁️ Cloud development to get certified.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;😔 Unfortunately, my best projects were developed for private companies with signed NDAs.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👁️ I’m looking for a full-time permanent job...<br>
 
