@@ -1,6 +1,6 @@
 ![stacks](./Background.png)
 
-### Hi there 👋 ...I'm Luis! `<FullStackDeveloper />`
+### Hi there 👋 ...I'm Luis! \<FullStackDeveloper />\
 
 #### 🤔 A bit about me
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤹 Highly-skilled software development professional bringing more than 10 years in software design, development and integration.<br>
