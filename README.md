@@ -3,9 +3,9 @@
 ### Hi there 👋 ...I'm Luis! <FullStackDeveloper />
 
 #### 🤔 A bit about me
-🤹 Highly-skilled software development professional bringing more than 10 years in software design, development and integration.<br>
-💻 Advanced knowledge of 📱 Mobile, 🌐 Application and 🕸️ Web programming languages.<br>
-📚 Education and experience focused on both sides - business & tech, and also project management, leadership and design.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤹 Highly-skilled software development professional bringing more than 10 years in software design, development and integration.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💻 Advanced knowledge of 📱 Mobile, 🌐 Application and 🕸️ Web programming languages.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📚 Education and experience focused on both sides - business & tech, and also project management, leadership and design.
 
 #### ⚡ Happening now
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏋️‍ I’m currently working on a personal project and actively looking for a job.<br>
