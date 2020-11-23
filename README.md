@@ -6,12 +6,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤹 Highly-skilled software development professional bringing more than 10 years in software design, development and integration.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💻 Advanced knowledge of 📱 Mobile, 🌐 Application and 🕸️ Web programming languages.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📚 Education and experience focused on both sides - business & tech, and also project management, leadership and design.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;😔 Unfortunately, my best projects were developed for private companies with signed NDAs.<br>
 
 #### ⚡ Happening now
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏋️‍ I’m currently working on a personal project and actively looking for a job.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏋️‍ I’m currently working on personal projects to keep practicing.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📖 I’m currently studying AWS ☁️ Cloud development to get certified.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;😔 Unfortunately, my best projects were developed for private companies with signed NDAs.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👁️ I’m looking for a full-time permanent job...<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👁️ I’m actively looking for a full-time permanent job...<br>
 
 #### 😜 Fun facts<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎮 Video game player & enthusiast<br>
