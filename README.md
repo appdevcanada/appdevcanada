@@ -5,7 +5,7 @@
 #### 🤔 A bit about me
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤹 Highly-skilled software development professional bringing more than 10 years in software design, development and integration.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💻 Advanced knowledge of 📱 Mobile, 🌐 Application and 🕸️ Web programming languages.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📚 Education and experience focused on both sides - business & tech, and also project management, leadership and design.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📚 Education and experience focused on both sides - business & tech, and also project management, leadership and design.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;😔 Unfortunately, my best projects were developed for private companies with signed NDAs.<br>
 
 #### ⚡ Happening now
