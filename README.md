@@ -9,14 +9,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;😔 Unfortunately, most of my best projects were developed for private companies with signed NDAs, therefore, here but in private mode.<br>
 
 #### ⚡ Happening now
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏋️‍ I’m currently working on personal projects with React and posting them here.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📖 I’m currently studying AWS ☁️ Cloud development to get certified.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👁️ I’m actively looking for a full-time permanent job...<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏋️‍ I’m currently working as a Software Developer at [PHD Solutions](https://phdsolutions.ca/) (Intelligent Software Solutions) and on a revolutionary iOS Retail App called [Fitted](https://www.findmyfit.io/).<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📖 And I’m also studying AWS ☁️ Cloud development to get certified.<br>
 
-#### 😜 Fun facts<br>
+#### 😜 Fun facts
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎮 Video game player & enthusiast<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤓 Overall geek 😊<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤓 Overall geek and smart but not nerd 😊<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🍔 Burger and 🥩 BBQ lover (prepping and eating)<br>
 
 #### 💬 Where to find more stuff
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💼 [My personal profile/portfolio/skills page](https://appdevcanada.github.io) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💼 [My personal profile and skills page](https://appdevcanada.github.io)
