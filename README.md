@@ -9,8 +9,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;😔 Unfortunately, most of my best projects were developed for private companies with signed NDAs(here but in private repos).<br>
 
 #### ⚡ Happening now
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏋️‍ I’m currently working as a Software Developer at [PHD Solutions](https://phdsolutions.ca/) and on a revolutionary iOS Retail App called [Fitted](https://www.findmyfit.io/).<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📖 And I’m also studying AWS ☁️ Cloud development to get certified.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏋️‍ I’m currently working as a Software Developer at [PHD Solutions](https://phdsolutions.ca/) and on a revolutionary iOS Retail App.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📖 And I’m also learning AWS ☁️ Cloud development to get certified.<br>
 
 #### 😜 Fun facts
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎮 Video game player & enthusiast<br>
