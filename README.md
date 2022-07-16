@@ -6,7 +6,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤹 Highly-skilled software development professional bringing more than 10 years in background.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💻 Advanced knowledge of 📱 Mobile, 🌐 Application and 🕸️ Web programming languages.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📚 Education and experience focused on both sides - business & tech, and also project management, leadership and design.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;😔 Unfortunately, most of my best projects were developed for private companies with signed NDAs(here but in private repos).<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;😔 Unfortunately, most of my best projects were developed for private companies with signed NDAs (here but in private repos).<br>
 
 #### ⚡ Happening now
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏋️‍ I’m currently working as a Software Developer at [PHD Solutions](https://phdsolutions.ca/) and on some personal projects.<br>
