@@ -10,7 +10,7 @@
 
 #### ⚡ Happening now
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏋️‍ I’m currently working as a Software Developer at [PHD Solutions](https://phdsolutions.ca/) and on some personal projects.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📖 And I’m also learning AWS ☁️ Cloud development to get certified.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📖 And I’m also studying some web languages to improve my skills.<br>
 
 #### 😜 Fun facts
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎮 Video game player & enthusiast<br>
