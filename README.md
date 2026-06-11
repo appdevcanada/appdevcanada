@@ -4,7 +4,7 @@
 
 ### Senior Frontend Engineer | UI/UX Specialist | 70/30 Full-Stack Architect
 
-I am a software development professional with over 10 years of experience building products at the intersection of **Business**, **Technology**, and **Design**. I specialize in creating high-performance, accessible (WCAG) web applications using the **React/TypeScript** ecosystem.
+I am a software development professional with over 10 years of experience building products at the intersection of **Business**, **Technology**, and **Design**. I specialize in creating high-performance, accessible (WCAG) web applications using the **React/TypeScript** ecosystem and mobile applications using **.NET Maui**.
 
 ---
 
@@ -17,24 +17,24 @@ I am a software development professional with over 10 years of experience buildi
 
 ### ⚡ Happening now
 
-- 🏋️ **Current Role:** Building scalable platforms as a **Senior Developer at PHD Solutions**.
-- 📖 **Always Learning:** Currently deep-diving into advanced **AWS Serverless patterns** and **Performance Optimization** for massive datasets.
+- 🏋️ **Current Role:** Building scalable platforms as a **Software Developer at PHD Solutions**.
+- 📖 **Always Learning:** Currently deep-diving into advanced **AI gen tools and vibe coding with Claude** for faster development.
 
 ---
 
 ### 😜 Fun facts
 
-- 🎮 **Gamer:** Video game player and enthusiast.
-- 🤓 **Geek Level:** Proud geek. Smart, social, and always curious.
-- 🍔 **Foodie:** Dedicated Burger and 🥩 BBQ lover—both the prep and the eating!
+- **Gamer:** Video game 🎮 player and enthusiast.
+- **Geek Level:** Proudly geek 🤓. Smart, social, and always curious.
+- **Foodie:** Dedicated Burger 🍔 and BBQ 🥩 lover — both the prep and the eating!
 
 ---
 
 ### 🛠 My Daily Toolkit
 
-- **Frontend:** React, TypeScript, Redux, Material UI, SASS, WCAG 2.0 AA
-- **Backend/Cloud:** Node.js, ASP.NET (C#), GraphQL, AWS (Lambda, S3, API Gateway)
-- **Mobile:** Swift (ARKit), Kotlin, .NET Maui
+- **Frontend:** React, TypeScript, Material UI, SASS, WCAG 2.0 AA
+- **Backend/Cloud:** ASP.NET (C#), Node.js, Azure, AWS (Lambda, S3, API Gateway)
+- **Mobile:** .NET Maui, React Native, Swift, Kotlin
 - **Design:** Figma, Design Thinking, Information Architecture
 
 ---
