@@ -4,7 +4,7 @@
 
 ### Senior Frontend Engineer | UI/UX Specialist | 70/30 Full-Stack Architect
 
-I am a software development professional with over 10 years of experience building products at the intersection of **Business**, **Technology**, and **Design**. I specialize in creating high-performance, accessible (WCAG) web applications using the **React/TypeScript** ecosystem and mobile applications using **.NET Maui**.
+I'm a software developer with 10+ years building products for enterprise insurance, banking, and logistics teams — the kind of work where performance budgets and WCAG 2.0 AA compliance aren't negotiable. I specialize in the **React/TypeScript** ecosystem on the web and mobile apps with **React Native/.NET Maui**. I also run **App Dev Canada**, an independent studio whose first app, **Presence Tracker** (IRCC related), is live on the App Store and Google Play.
 
 ---
 
