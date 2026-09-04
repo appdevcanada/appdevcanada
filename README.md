@@ -1,4 +1,4 @@
-![stacks](./Background.png)
+![App Dev Canada — Focused mobile apps, crafted in Canada.](./Background.png)
 
 # Hi there 👋 I'm Luis!
 
