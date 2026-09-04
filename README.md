@@ -41,5 +41,5 @@ I am a software development professional with over 10 years of experience buildi
 
 ### 📫 Let's Connect!
 
-[LinkedIn](https://linkedin.com/in/luishsouza) | [Portfolio](https://appdevcanada.vercel.app) | [Email Me](mailto:appdevcanada@gmail.com)
+[LinkedIn](https://linkedin.com/in/luishsouza) | [Portfolio](https://appdevcanada.ca) | [Email Me](mailto:contact@appdevcanada.ca)
 
